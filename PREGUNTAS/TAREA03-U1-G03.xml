@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 5  -->
+  <question type="matching">
+    <name>
+      <text>Emparejamiento</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Unir los términos con sus definiciones:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>003</idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Criptografía Asimétrica</span></p>]]></text>
+      <answer>
+        <text>Esta técnica usa dos claves distintas para el cifrado y descifrado de un texto.</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Criptografía Simétrica</span></p>]]></text>
+      <answer>
+        <text>Esta técnica utiliza la misma clave tanto para el cifrado como para el descifrado de un mensaje.</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Criptografía Hash</span></p>]]></text>
+      <answer>
+        <text>Estas son claves únicas que se generan con un algoritmo.</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Criptografía de Ofuscación</span></p>]]></text>
+      <answer>
+        <text>Con esta técnica no se consigue evitar ataques, sino más bien retrasarlos; pero puede ser útil en algunos contextos.</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 2  -->
+  <question type="multichoice">
+    <name>
+      <text>Opción Múltiple</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p class="MsoNormal"><u><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">¿Qué quiere decir Criptografía?</span></u></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Datos Sincronizados</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Escritura Oculta</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Datos Enmarcados</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Lectura de Datos</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Transporte Mensajería</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3  -->
+  <question type="multichoice">
+    <name>
+      <text>Opción Múltiple02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Seleccione cuales no pertenecen a una definición de Estenografía</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>002</idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Es una técnica encargada de hacer la información invisible.</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Trata de mantener la información clasificada oculta para todo público.</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Es utilizada en forma de seguridad para proteger la privacidad de un mensaje.</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Es la técnica de proteger la privacidad del mensaje al transmitirlo por un medio.</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Implica la modificación visible de archivos multimedia para esconder información confidencial.</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6  -->
+  <question type="shortanswer">
+    <name>
+      <text>Respuesta corta</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p class="MsoNormal"><span lang="ES-MX" style="font-size: 10.0pt; line-height: 115%; mso-ansi-language: ES-MX;">Tradicionalmente los <strong>.......... </strong>se tenían que descifrar antes de poder utilizarlos en un cálculo</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>004</idnumber>
+    <usecase>1</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>datos</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>cálculos</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 8  -->
+  <question type="truefalse">
+    <name>
+      <text>Verdadero / Falso</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p class="MsoNormal"></p>
+<p class="MsoNormal"><span style="box-sizing: inherit; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;"><span style="font-family: 'Helvetica',sans-serif;">Existen dos elementos importantes de la mecánica cuántica de los que depende la criptografía cuántica: La <strong>Incertidumbre de Heisenberg</strong> y el principio de <strong>acción y reacción</strong>.</span></span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text><![CDATA[<p class="MsoNormal"><span style="box-sizing: inherit; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;"><span style="font-family: 'Helvetica',sans-serif;">Existen dos elementos importantes de la mecánica cuántica de los que depende la criptografía cuántica: La <strong>Incertidumbre de Heisenberg</strong> y el principio de <strong>polarización de fotones.</strong></span></span></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
