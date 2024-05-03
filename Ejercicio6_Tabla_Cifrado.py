@@ -2,6 +2,7 @@ def imprimir_tabla(tabla):
     for fila in tabla:
         print(' '.join(fila))
 
+
 def cifrado_tabla(cadena, tabla):
     resultado = ''
     for letra in cadena:
