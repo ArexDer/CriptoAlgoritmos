@@ -32,7 +32,7 @@ imprimir_tabla(tabla_cifrado)
 # Pedir al usuario la cadena de caracteres
 cadena = input("Ingresa la cadena de caracteres a cifrar: ")
 
-
+cadena =cadena.lower()
 #EJECUCION....
 # Realizar el cifrado utilizando la tabla y mostrar resultado
 
